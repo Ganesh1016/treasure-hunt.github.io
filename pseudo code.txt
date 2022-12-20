@@ -1,0 +1,6 @@
+from the locations array 
+pick a random array index
+and append it to new array
+
+On click CC
+Output first element of the array and then remove the first element. * 16;
